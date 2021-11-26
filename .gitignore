@@ -3,7 +3,6 @@ output/
 logs/
 checkpoints/
 notebooks/
-results/
 saved_models/
 figures/
 data/
