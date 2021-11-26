@@ -1,0 +1,16 @@
+__pycache__
+output/
+logs/
+checkpoints/
+notebooks/
+results/
+saved_models/
+figures/
+data/
+visualization/
+
+*.pt
+*.npy
+*.pkl
+*.ipynb
+*.swp

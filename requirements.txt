@@ -1,0 +1,10 @@
+lmdb==1.0.0
+matplotlib==3.3.3
+opencv-python==4.4.0.46
+Pillow
+pyarrow==1.0.0
+pytorch-lightning==0.9.0
+scikit-image==0.17.2
+scipy==1.5.4
+tqdm
+pygit2
