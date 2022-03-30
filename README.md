@@ -22,6 +22,7 @@ DIGIT estimates the 3D poses of two interacting hands from a single RGB image. T
 
 ## Updates
 
+- March 30 2022: `meta_*.pkl` can be downloaded [here](https://drive.google.com/drive/folders/1mI_8Eg_A7VtqAuQJs_GJhLlzxY_IDtgr?usp=sharing)
 - November 25 2021: Initial repo with training and evaluation on PyTorch Lightning 0.9.
 
 
