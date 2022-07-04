@@ -1,6 +1,6 @@
 # Learning to Disambiguate Strongly Interacting Hands via Probabilistic Per-Pixel Part Segmentation [3DV 2021 Oral]
 
-[![report](https://img.shields.io/badge/Project-Page-blue)](https://zc-alexfan.github.io/digit/)
+[![report](https://img.shields.io/badge/Project-Page-blue)](https://zc-alexfan.github.io/digit)
 [![report](https://img.shields.io/badge/ArXiv-Paper-red)](https://arxiv.org/abs/2107.00434)
 
 > [**Learning to Disambiguate Strongly Interacting Hands via Probabilistic Per-Pixel Part Segmentation**](https://arxiv.org/abs/2107.00434),            
