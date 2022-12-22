@@ -98,8 +98,8 @@ The results will be dumped to `./visualization`.
 ## Other projects that might interest you
 
 **TempCLR: Reconstructing Hands via Time-Coherent Contrastive Learning**
-> *Andrea Ziani ♣, Zicong Fan ♣, Muhammed Kocabas, Sammy Christen, Otmar Hilliges. 3DV 2022. (♣ Equal Contribution)*
-> [[Project Page](https://eth-ait.github.io/tempclr)] [[Bibtex](https://zc-alexfan.github.io/bibs/ziani2022tempclr.html)]
+> *Andrea Ziani\*, Zicong Fan\*, Muhammed Kocabas, Sammy Christen, Otmar Hilliges. 3DV 2022. (\* Equal Contribution)*
+> [[Project](https://eth-ait.github.io/tempclr)]
 
 
 <p align="center">
