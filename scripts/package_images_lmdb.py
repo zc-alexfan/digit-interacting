@@ -2,7 +2,6 @@ from glob import glob
 import sys
 sys.path = ['..'] + sys.path
 import elytra.sys_utils as sys_utils
-import pdb; pdb.set_trace() 
 
 db_path = 'interhand.lmdb'
 fnames = glob('../data/InterHand/images/val/*/*/*/*')
