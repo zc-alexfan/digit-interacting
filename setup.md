@@ -42,7 +42,6 @@ pip install -r requirements.txt
 ├── rootnet_output
 │   ├── rootnet_interhand2.6m_output_all_test.json
 │   └── rootnet_interhand2.6m_output_machine_annot_val.json
-|-- annotations
 |-- images
 |   |-- test
 |   |-- train
