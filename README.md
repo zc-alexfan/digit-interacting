@@ -169,3 +169,6 @@ year = {2020}
 
 For any question, you can contact `zicong.fan@inf.ethz.ch`.
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zc-alexfan/digit-interacting&type=Date)](https://star-history.com/#zc-alexfan/digit-interacting&Date)
